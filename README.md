@@ -25,7 +25,7 @@ python3 /usr/lib/node_modules/openclaw/skills/skill-creator/scripts/package_skil
 ## 目录说明（作者/来源）
 | 目录 | 作者 | 内容/来源 |
 | --- | --- | --- |
-| `luxun-books/` | 鲁迅 | 鲁迅全集（marxists.org） |
+| `鲁迅/` | 鲁迅 | 鲁迅全集（marxists.org） |
 | `户晨风/` | 户晨风 | 公开视频/文章内容整理（GitHub 原始资料） |
 
 ## 备注
