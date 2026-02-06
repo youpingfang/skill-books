@@ -1,5 +1,11 @@
 # skill-books
 
+## 目录说明（作者/来源）
+| 目录 | 作者 | 内容/来源 |
+| --- | --- | --- |
+| `鲁迅/` | 鲁迅 | 鲁迅全集（marxists.org） |
+| `户晨风/` | 户晨风 | 公开视频/文章内容整理（GitHub 原始资料：<https://github.com/Olcmyk/HuChenFeng>） |
+
 本仓库用于存放 **OpenClaw** 的书籍/素材类技能数据（如鲁迅全集、户晨风内容库）。
 
 ## 用途（请务必阅读）
@@ -21,12 +27,6 @@ python3 /usr/lib/node_modules/openclaw/skills/skill-creator/scripts/package_skil
   /path/to/output
 ```
 生成的包为：`/path/to/output/luxun-books.skill`
-
-## 目录说明（作者/来源）
-| 目录 | 作者 | 内容/来源 |
-| --- | --- | --- |
-| `鲁迅/` | 鲁迅 | 鲁迅全集（marxists.org） |
-| `户晨风/` | 户晨风 | 公开视频/文章内容整理（GitHub 原始资料：<https://github.com/Olcmyk/HuChenFeng>） |
 
 ## 备注
 - 数据来源与具体说明见各技能目录内的 `README.md` 与 `SKILL.md`
